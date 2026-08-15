@@ -44,9 +44,10 @@ role: First-year MBA Tech (IT Specialization) @ NMIMS MPSTME, Mumbai
 approach: Architecture & system design by me, execution driven by AI agents
 daily_driver: Claude Code
 build_filter:
-  - not AI-dependent at the core
-  - not a clone of something that already exists
+  - not AI-dependent at the core, I understand the and build, not a coder, I am an Architect, for the stuff i buid
+  - not a clone of something that already exists ,I try to do them better
   - genuinely new, daily-use, shareable
+  - love getting my hands dirty
 long_term_goal: multi-brand conglomerate — robotics, space tech, asteroid mining
 currently_vibe_coding: "always something new"
 ```
@@ -155,7 +156,7 @@ currently_vibe_coding: "always something new"
 
 - 🏎️ Into motorsport
 - 🏗️ Homelab tinkerer — self-hosted services running out of my PG
-- 🎯 Chasing frontier tech: robotics, space, asteroid mining
+- 🎯 Chasing frontier tech: robotics, space, asteroid mining, networking
 - 🗣️ Fluent in Hinglish, terminal commands, and questionable sleep schedules
 
 ---
