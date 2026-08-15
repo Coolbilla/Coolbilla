@@ -125,7 +125,7 @@ currently_vibe_coding: "always something new"
 <div align="center">
 
 <a href="https://www.last.fm/user/Coolbilla_kun">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=Coolbilla_kun&count=5&width=600&loved=true" alt="recent scrobbles"/>
+  <img src="https://lastfm-recently-played-book000.vercel.app/api?user=Coolbilla_kun&count=3&width=600&loved=true&bg_color=0d1117&border_radius=12" alt="recent scrobbles"/>
 </a>
 
 <sub>Scrobbled from both Spotify + Apple Music via Last.fm</sub>
