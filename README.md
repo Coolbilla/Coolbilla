@@ -49,7 +49,7 @@ long_term_goal: multi-brand conglomerate — robotics, space tech, asteroid mini
 currently_vibe_coding: "always something new"
 ```
 
-<img align="right" width="40%" src="https://github-readme-stats-fast.vercel.app/api?username=Coolbilla&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=2575fc&text_color=c9d1d9" alt="GitHub Stats"/>
+<img align="right" width="40%" src="https://github-readme-stats-henna-three-75.vercel.app/api?username=Coolbilla&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=2575fc&text_color=c9d1d9" alt="GitHub Stats"/>
 
 - 🏗️ Currently building agentic + web projects solo
 - 🧩 Design-first, AI-executed workflow
@@ -103,7 +103,7 @@ currently_vibe_coding: "always something new"
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coolbilla&theme=radical&hide_border=true&background=0d1117&ring=7C3AED&fire=2575fc&currStreakLabel=7C3AED" alt="streak stats" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Coolbilla&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" alt="top langs" width="48%"/>
+<img src="https://github-readme-stats-henna-three-75.vercel.app/api/top-langs/?username=Coolbilla&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" alt="top langs" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coolbilla&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=7C3AED&point=2575fc" width="90%" alt="activity graph"/>
 
@@ -124,8 +124,11 @@ currently_vibe_coding: "always something new"
 
 <div align="center">
 
-<!-- Optional: hook this up to spotify-github-profile (setup notes below) -->
-<img src="https://novatorem-woad.vercel.app/api/spotify" width="400" alt="spotify now playing"/>
+<a href="https://www.last.fm/user/Coolbilla_kun">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=Coolbilla_kun&count=5&width=600&loved=true" alt="recent scrobbles"/>
+</a>
+
+<sub>Scrobbled from both Spotify + Apple Music via Last.fm</sub>
 
 </div>
 
