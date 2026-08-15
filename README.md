@@ -120,18 +120,24 @@ currently_vibe_coding: "always something new"
 
 ---
 
-### 🎧 Currently Vibing To
+### 🎧 On Repeat
 
 <div align="center">
 
-<a href="https://www.last.fm/user/Coolbilla_kun">
-  <img src="https://lastfm-recently-played-book000.vercel.app/api?user=Coolbilla_kun&count=3&width=480&loved=true&bg_color=0d1117&border_radius=12" alt="last.fm recent scrobbles" width="48%"/>
-</a>
-<a href="https://music-profile.rayriffy.com">
-  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000562.13a3263374d941daa7334d0368925546.0939" alt="Apple Music GitHub profile" width="48%"/>
-</a>
-
-<sub>Spotify (via Last.fm) + Apple Music</sub>
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/a9/36/8ba936f3-2d8b-1012-89cc-92f75eb76961/886448289180.jpg/300x300bf-60.jpg" width="150" style="border-radius:12px"/><br/>
+<b>death bed (coffee for your head)</b><br/>
+<sub>Powfu ft. beabadoobee</sub>
+</td>
+<td align="center" width="200">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/19/ca/5419ca53-92fa-6b4d-300c-99d7c594dcba/886447307830.jpg/300x300bf-60.jpg" width="150" style="border-radius:12px"/><br/>
+<b>Tere Liye</b><br/>
+<sub>Atif Aslam</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
