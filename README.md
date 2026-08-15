@@ -9,6 +9,8 @@
 <!-- Dark "matrix-toned" capsule header — pure black/green, no external gif dependency -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=140&text=%3E%20SYSTEM%20BOOT...%20Ishaan.exe%20loaded&fontColor=39FF14&fontSize=26&fontAlign=50&fontAlignY=55" width="100%"/>
 
+<img src="./assets/avatar.png" width="160" style="border-radius:50%;margin-top:16px;"/>
+
 <h1>Hey, I'm Ishaan 👋</h1>
 <p><i>Builder | Vibe Coder | Future Conglomerate CEO</i></p>
 
