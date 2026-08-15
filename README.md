@@ -127,7 +127,7 @@ currently_vibe_coding: "always something new"
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/a9/36/8ba936f3-2d8b-1012-89cc-92f75eb76961/886448289180.jpg/300x300bf-60.jpg" width="150" style="border-radius:12px"/><br/>
+<img src="<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/in/song/tere-liye/1537035416"></iframe>"/><br/>
 <b>death bed (coffee for your head)</b><br/>
 <sub>Powfu ft. beabadoobee</sub>
 </td>
